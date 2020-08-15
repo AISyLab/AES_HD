@@ -8,5 +8,5 @@ To reference this dataset, please use the following bibtex:
     title = {AES HD dataset - 50\,000 traces},\
     howpublished = {AISyLab repository},\
     year = {2020},\
-    note = {\url{}},\
+    note = {\url{https://github.com/AISyLab/AES_HD_1}},\
 }
