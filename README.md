@@ -4,7 +4,7 @@ AES HD dataset
 To reference this dataset, please use the following bibtex:
 
 @misc{AES_HD1,
-    author = {Shivam Bhasin and Dirmanto Jap and Stjepan Picek},
+    author = {Shivam Bhasin and Dirmanto Jap and Stjepan Picek},\
     title = {AES HD dataset - 50\,000 traces},
     howpublished = {AISyLab repository},
     year = {2020},
